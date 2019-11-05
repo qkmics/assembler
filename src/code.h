@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <unordered_map>
-#include "SymbolTable.h"
+#include "symbolTable.h"
 using namespace std;
 class Code
 {
