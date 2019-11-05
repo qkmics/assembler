@@ -3,6 +3,7 @@
 #include <string>
 #include <fstream>
 #include <unordered_map>
+#include <vector>
 using namespace::std;
 class SymbolTable
 {
